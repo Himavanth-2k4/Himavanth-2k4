@@ -1,4 +1,4 @@
-# Hi, I'm Himavanth Singh
+# Hi, I'm Kshatriya Himavanth Singh
 
 I am a Computer Science undergraduate at SRM University AP with a strong foundation in software development, data structures, and machine learning. I am particularly interested in building scalable systems, developing intelligent applications, and solving real-world problems through technology.
 
