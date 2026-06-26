@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himavanth Singh</h1>
 
 <h3 align="center">
-Backend Developer • AI Enthusiast • Real-Time Streaming Engineer
+Backend Developer • AI Enthusiast • Big Data • Data Science
 </h3>
-
-<!-- <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p> -->
 
 ---
 
@@ -155,22 +149,6 @@ Low-latency HLS streaming with synchronized playback using WebSockets.
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Himavanth-2k4&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himavanth-2k4&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himavanth-2k4&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himavanth-2k4&theme=tokyo-night"/>
 </p>
 
 ---
