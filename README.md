@@ -1,81 +1,189 @@
-# Hi, I'm Kshatriya Himavanth Singh
+<h1 align="center">Hi 👋, I'm Himavanth Singh</h1>
 
-I am a Computer Science undergraduate at SRM University AP with a strong foundation in software development, data structures, and machine learning. I am particularly interested in building scalable systems, developing intelligent applications, and solving real-world problems through technology.
+<h3 align="center">
+Backend Developer • AI Enthusiast • Real-Time Streaming Engineer
+</h3>
 
----
-
-## About Me
-
-* Pursuing B.Tech in Computer Science and Engineering (2023–2027)
-* Strong in problem-solving, algorithms, and system design
-* Experience in CRM development, automation, and full-stack web applications
-* Passionate about applying technology to real-world domains such as agriculture and travel
-
----
-
-## Experience
-
-### Salesforce — Developer Intern
-
-*May 2025 – July 2025*
-
-* Completed 40+ hands-on modules and real-world challenges
-* Developed and optimized 10+ automation workflows and triggers
-* Improved business process efficiency by approximately 25–30%
-* Enhanced data handling accuracy through validations and optimized logic
-* Worked on CRM customization, debugging, testing, and deployment
-
-
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-## Projects
+## 👨‍💻 About Me
 
-### KisanSetu — Mobile Application
-
-* Developed a crop disease classification model with 88% accuracy
-* Built a crop recommendation system using environmental feature engineering
-
-### HandsMen Threads — Salesforce CRM Solution
-
-* Designed 6+ custom objects with scalable data modeling
-* Automated workflows using Apex and record-triggered flows
-* Improved efficiency by 40% and managed 100+ records
-
-### Travel Guide System
-
-* Developed a responsive web application for exploring tourist destinations across India
-* Implemented blog sharing, reviews, and trip planning features
+- 🎓 B.Tech CSE @ **SRM University AP**
+- 💼 Technical Solution Engineer @ **Algo University**
+- 🌱 Currently learning **System Design, Docker, Kubernetes & AWS**
+- 🔭 Building **AI Applications, Backend Systems & Real-Time Streaming Platforms**
+- 💬 Ask me about **Python, FastAPI, React, HLS Streaming, WebSockets, Salesforce**
+- 📫 Reach me at **k.himavanthsingh@gmail.com**
 
 ---
 
-## Skills
+## 🌐 Connect With Me
 
-**Languages:**
-C, C++, Python, Java
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-**Web Development:**
-HTML, JavaScript, TypeScript, Tailwind CSS, Bootstrap
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-**Frameworks & Tools:**
-React Native, Node.js
-
-**Databases & Technologies:**
-MySQL, PostgreSQL, Git, Linux, XAMPP, phpMyAdmin, VS Code
-
-**Core Concepts:**
-DSA, OOP, OS, DBMS, Computer Networks
-
----
-
-## Contact
-
-* Email: [k.himavanthsingh@gmail.com](mailto:k.himavanthsingh@gmail.com)
-* LinkedIn: https://linkedin.com/in/your-link
-* GitHub: https://github.com/your-username
+<a href="mailto:k.himavanthsingh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## Objective
+# 💻 Tech Stack
 
-To leverage my technical skills and practical experience to build efficient, scalable, and impactful software solutions while continuously learning and growing in the field of technology.
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql" />
+</p>
+
+---
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+---
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+</p>
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+</p>
+
+---
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Knowledge_Graphs-green?style=for-the-badge"/>
+</p>
+
+---
+
+### Streaming Technologies
+
+<p>
+<img src="https://img.shields.io/badge/HLS-Streaming-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/hls.js-Video-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Event_Driven-Architecture-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real_Time-Synchronization-success?style=for-the-badge"/>
+</p>
+
+---
+
+### Salesforce
+
+<p>
+<img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightning_Flow-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Modeling-0176D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Validation_Rules-0176D3?style=for-the-badge"/>
+</p>
+
+---
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌾 KisanSetu
+AI-powered crop disease classification and recommendation system.
+
+**Tech Stack:** Python • Machine Learning • Scikit-learn • Pandas
+
+---
+
+### 🤖 CodeExec
+AI Smart Code Execution Assistant with secure sandboxing, REST APIs, analytics, and visualizations.
+
+**Tech Stack:** Python • FastAPI • MCP • REST APIs
+
+---
+
+### ☁️ HandsMen Threads
+Salesforce CRM platform with automation, Apex, Lightning Flows, and scalable data modeling.
+
+**Tech Stack:** Salesforce • Apex • Lightning Flow
+
+---
+
+### 📺 Live Video Streaming
+Low-latency HLS streaming with synchronized playback using WebSockets.
+
+**Tech Stack:** HLS • hls.js • WebSockets • React
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 💼 Technical Solution Engineer @ Algo University
+- ☁️ Salesforce Developer Intern
+- 🎓 B.Tech Computer Science (CGPA: 8.95)
+- 🚀 Passionate about Backend Engineering, AI, and Real-Time Streaming
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
