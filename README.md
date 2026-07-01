@@ -91,65 +91,32 @@ Backend Developer • AI Enthusiast  • Data Science
 </div>
 
 # 🚀 Featured Projects
-
-
-
-### 🌾 KisanSetu
-
-AI-powered crop disease classification and recommendation system.
-
-
-
-**Tech Stack:** Python • Machine Learning • Scikit-learn • Pandas
-
-
-
----
-
-
-
-### 🤖 CodeExec
-
-AI Smart Code Execution Assistant with secure sandboxing, REST APIs, analytics, and visualizations.
-
-
-
-**Tech Stack:** Python • FastAPI • MCP • REST APIs
-
-
-
----
-
-
-
-### ☁️ HandsMen Threads
-
-Salesforce CRM platform with automation, Apex, Lightning Flows, and scalable data modeling.
-
-
-
-**Tech Stack:** Salesforce • Apex • Lightning Flow
-
-
-
----
-
-
-
-### 📺 Live Video Streaming
-
-Low-latency HLS streaming with synchronized playback using WebSockets.
-
-
-
-**Tech Stack:** HLS • hls.js • WebSockets • React
-
-
-
----
-
-
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 KisanSetu</h3>
+      <p>AI-powered crop disease classification and recommendation system.</p>
+      <code>Python</code> • <code>Machine Learning</code> • <code>Scikit-learn</code> • <code>Pandas</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 CodeExec</h3>
+      <p>AI Smart Code Execution Assistant with secure sandboxing, REST APIs, analytics, and visualizations.</p>
+      <code>Python</code> • <code>FastAPI</code> • <code>MCP</code> • <code>REST APIs</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ HandsMen Threads</h3>
+      <p>Salesforce CRM platform with automation, Apex, Lightning Flows, and scalable data modeling.</p>
+      <code>Salesforce</code> • <code>Apex</code> • <code>Lightning Flow</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📺 Live Video Streaming</h3>
+      <p>Low-latency HLS streaming with synchronized playback using WebSockets.</p>
+      <code>HLS</code> • <code>hls.js</code> • <code>WebSockets</code> • <code>React</code>
+    </td>
+  </tr>
+</table>
 # 📊 GitHub Stats
 
 
