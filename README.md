@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himavanth Singh</h1>
 
 <h3 align="center">
-Backend Developer • AI Enthusiast • Big Data • Data Science
+Backend Developer • AI Enthusiast  • Data Science
 </h3>
 
 ---
