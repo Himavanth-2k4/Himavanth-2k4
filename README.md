@@ -75,158 +75,20 @@ Backend Developer • AI Enthusiast  • Data Science
 # 💻 Tech Stack
 
 
-
-### Languages
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql" />
-
-</p>
-
-
-
----
-
-
-
-### Frontend
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-
-</p>
-
-
-
----
-
-
-
-### Backend
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
-
-</p>
-
-
-
----
-
-
-
-### Databases
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
-
-</p>
-
-
-
----
-
-
-
-### AI / Machine Learning
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Knowledge_Graphs-green?style=for-the-badge"/>
-
-</p>
-
-
-
----
-
-
-
-### Streaming Technologies
-
-
-
-<p>
-
-<img src="https://img.shields.io/badge/HLS-Streaming-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/hls.js-Video-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Event_Driven-Architecture-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Real_Time-Synchronization-success?style=for-the-badge"/>
-
-</p>
-
-
-
----
-
-
-
-### Salesforce
-
-
-
-<p>
-
-<img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Lightning_Flow-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data_Modeling-0176D3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Validation_Rules-0176D3?style=for-the-badge"/>
-
-</p>
-
-
-
----
-
-
-
-### Tools
-
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-
-</p>
-
-
-
----
-
-
+<div align="center">
+
+| Category | Badges / Icons |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,fastapi" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" /><br><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-black?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Knowledge_Graphs-green?style=flat-square"/> |
+| **Streaming** | <img src="https://img.shields.io/badge/HLS-Streaming-orange?style=flat-square"/> <img src="https://img.shields.io/badge/hls.js-Video-red?style=flat-square"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Event_Driven-Architecture-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Real_Time-Synchronization-success?style=flat-square"/> |
+| **Salesforce** | <img src="https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Lightning_Flow-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/> <img src="https://img.shields.io/badge/Data_Modeling-0176D3?style=flat-square"/> <img src="https://img.shields.io/badge/Validation_Rules-0176D3?style=flat-square"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> |
+
+</div>
 
 # 🚀 Featured Projects
 
