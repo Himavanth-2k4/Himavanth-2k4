@@ -5,7 +5,7 @@ Backend Developer • AI Enthusiast  • Data Science
 </h3>
 
 ---
-
+       
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE @ **SRM University AP**
