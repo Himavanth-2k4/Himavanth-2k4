@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Himavanth Singh</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&height=50&lines=Backend+Developer;AI+Enthusiast;Data+Science+Explorer" alt="Typing SVG" />
@@ -128,5 +127,3 @@
 <h3 align="center">
 ⭐ Thanks for stopping by! Let's build something epic. ⭐
 </h3>
-
-```
